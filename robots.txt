@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://muquu.github.io/sitemap.xml 
