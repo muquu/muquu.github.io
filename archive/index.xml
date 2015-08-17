@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on muquu</title>
+    <link>http://muquu.github.io/archive/</link>
+    <description>Recent content in Archives on muquu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2015 muquu</copyright>
+    <lastBuildDate>Mon, 17 Aug 2015 08:59:19 +0900</lastBuildDate>
+    <atom:link href="http://muquu.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>サイト開設</title>
+      <link>http://muquu.github.io/archive/yotei/</link>
+      <pubDate>Mon, 17 Aug 2015 08:59:19 +0900</pubDate>
+      
+      <guid>http://muquu.github.io/archive/yotei/</guid>
+      <description>
+
+&lt;h2 id=&#34;予定:74a94f4576ded0c0f1b8940470d527d7&#34;&gt;予定&lt;/h2&gt;
+
+&lt;p&gt;何かコンテンツを作る予定です！&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;contents.jpg&#34; alt=&#34;コンテンツ&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
